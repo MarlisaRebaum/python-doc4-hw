@@ -11,3 +11,6 @@ accessing class attributes, changing class attributes, etc.)
 - Class Methods (creating, calling, modifying an attribute's 
 value through a method, etc.)
 - Inheritance
+
+## Technologies Used:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
